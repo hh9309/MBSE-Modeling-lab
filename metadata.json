@@ -1,0 +1,6 @@
+{
+  "name": "MBSE 系统建模实验室",
+  "description": "面向复杂工程系统的 MBSE 数字化系统建模实验室：需求多级分解、SysML 多视角协同演播、图论代数一致性映射、六大实战案例与 AI 随诊验证。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
